@@ -20,3 +20,4 @@ hello world! hello git! hot-fix test
 html无别名测试
 html别名测试
 ssh无别名测试
+ssh别名测试
