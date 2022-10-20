@@ -19,3 +19,4 @@ hello world! hello git! hot-fix test
 测试ssh免密登录
 html无别名测试
 html别名测试
+ssh无别名测试
